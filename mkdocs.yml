@@ -1,0 +1,7 @@
+site_name: FletVideoCompressor
+
+theme:
+  name: "material"
+
+plugins:
+  - mkdocstrings

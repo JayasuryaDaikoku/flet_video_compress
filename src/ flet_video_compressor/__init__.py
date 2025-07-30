@@ -1,0 +1,1 @@
+from flet_video_compressor.flet_video_compressor import FletVideoCompressor
